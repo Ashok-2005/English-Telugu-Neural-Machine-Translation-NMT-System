@@ -52,10 +52,6 @@ The models were evaluated using BLEU and chrF metrics to measure translation qua
 - SentencePiece
 - NumPy
 - Pandas
-- Flask
-- HTML
-- CSS
-- JavaScript
 
 ---
 
