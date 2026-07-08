@@ -192,7 +192,7 @@ He is reading a book which was given by his friend.
 - **Venkata Ashok Adithya**
 - **Harshavardhan Reddy**
 - **Dinesh Reddy**
-- **Kaseeswar**
+- **Kaseeswar Reddy**
   
 **School of Computer Science and Engineering**
 
